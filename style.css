@@ -1,0 +1,19 @@
+body{
+    margin:0px;
+    background-color:#F7F4ED;
+}
+.div-1 {
+    background-image: linear-gradient(to left,#FFA90E , #FAEA9E);
+    text-align: center;
+    margin-top: -15px;
+    padding: 20px 0px 5px 0px;
+    border: 1px solid black;
+
+    span{
+        font-weight: 500;
+    }
+    
+    a{
+        color: black;
+    }
+}
